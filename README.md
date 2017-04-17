@@ -1,4 +1,4 @@
-# test coverage for  [ionic (v2.2.2-201704172338-201704172338)](http://ionicframework.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ionic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ionic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ionic.svg)](https://travis-ci.org/npmtest/node-npmtest-ionic)
+# test coverage for  [ionic (v2.2.2-201704172341-201704172341)](http://ionicframework.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ionic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ionic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ionic.svg)](https://travis-ci.org/npmtest/node-npmtest-ionic)
 #### A tool for creating and developing Ionic Framework mobile apps.
 
 [![NPM](https://nodei.co/npm/ionic.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ionic)
@@ -33,7 +33,7 @@
 
 {
     "name": "ionic",
-    "version": "2.2.2-201704172338-201704172338",
+    "version": "2.2.2-201704172341-201704172341",
     "preferGlobal": true,
     "description": "A tool for creating and developing Ionic Framework mobile apps.",
     "homepage": "http://ionicframework.com/",
